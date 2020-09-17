@@ -1,5 +1,3 @@
-# BT3103
+## Hello World
+This line will be replaced
 
-NUS Business Analytics course
-
-This line will cause conflict
