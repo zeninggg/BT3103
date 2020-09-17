@@ -1,5 +1,2 @@
-# BT3103
+"This line will be replaced" 
 
-NUS Business Analytics course
-This line will be replaced
-"This line will cause conflict" 
