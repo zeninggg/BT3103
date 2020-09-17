@@ -1,2 +1,2 @@
-"This line will be replaced" 
+NUS Business Analytics course
 
