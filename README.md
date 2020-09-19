@@ -1,3 +1,3 @@
 # BT3103
 
-NUS Business Analytics course (added)
+NUS Business Analytics course
